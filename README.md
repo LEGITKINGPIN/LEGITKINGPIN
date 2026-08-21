@@ -27,10 +27,6 @@ I'm a B.Tech CSE (Data Science) student at **Raj Kumar Goel Institute of Technol
 
 ## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-### 🛠️ Tech Stack
-
 **Languages**
 <p align="left">
   <a href="https://skillicons.dev">
